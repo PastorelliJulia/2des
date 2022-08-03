@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(233, 233, 233);
+    margin: 5%;
+}
+
+.titulo{
+    margin-left: 5%;
+    color:rgb(108, 125, 139)
+}
+.form{
+    font-family: Arial;
+    color:rgb(108, 125, 139);
+    margin: 2%;
+    font-style: bold;
+}
