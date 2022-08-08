@@ -1,0 +1,21 @@
+*{
+    background-color: aliceblue;
+}
+
+.titulo{
+    font-size: 300%;
+    justify-content: center;
+    display: flex;
+    margin: 5%;
+}
+
+.input{
+    font-size: 120%;
+    justify-content: center;
+    display: flex; 
+    margin: 1%;
+}
+.nome{
+    justify-content: center;
+    display: flex;
+}
