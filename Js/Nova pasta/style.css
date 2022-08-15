@@ -1,0 +1,10 @@
+.head{
+    display: flex;
+}
+.id{
+    margin-right: 20%;
+}
+.checkbox{
+    display: flex;
+    justify-content: right;
+}
